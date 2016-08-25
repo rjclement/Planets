@@ -1,1 +1,6 @@
 Is pluto a planet?
+
+planets = ['merc','venus', 'mars','earth','others','pluto']
+for ii in range(0,5):
+	if planets[ii] == 'pluto'
+	print('yes')
